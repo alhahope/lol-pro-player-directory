@@ -1,0 +1,23 @@
+{
+  "generatedAt": "1970-01-01T00:00:00.000Z",
+  "source": "seed",
+  "status": {
+    "ok": true,
+    "message": "种子数据。"
+  },
+  "summary": {
+    "total": 0,
+    "active": 0,
+    "retired": 0,
+    "countries": 0,
+    "teams": 0,
+    "personalities": 0
+  },
+  "facets": {
+    "roles": [],
+    "regions": [],
+    "countries": [],
+    "teams": []
+  }
+}
+
