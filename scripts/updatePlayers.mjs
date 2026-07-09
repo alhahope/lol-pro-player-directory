@@ -4,8 +4,10 @@ import { fileURLToPath, pathToFileURL } from "node:url";
 
 export const LEAGUEPEDIA_API =
   "https://lol.fandom.com/api.php?action=cargoquery&format=json";
+export const LEAGUEPEDIA_EXPORT =
+  "https://lol.fandom.com/wiki/Special:CargoExport";
 export const PLAYERS_TABLE_URL = "https://lol.fandom.com/wiki/Special:CargoTables/Players";
-export const CARGO_LIMIT = 500;
+export const CARGO_LIMIT = 1000;
 export const REQUEST_DELAY_MS = 1200;
 export const MAX_ROWS = Number(process.env.MAX_PLAYERS_ROWS ?? 25000);
 
@@ -182,6 +184,33 @@ function uniqueValues(values) {
 }
 
 async function fetchCargoPage(offset) {
+  try {
+    return await fetchCargoExportPage(offset);
+  } catch (error) {
+    console.warn(`CargoExport failed at offset ${offset}: ${error.message}`);
+    return fetchCargoApiPage(offset);
+  }
+}
+
+async function fetchCargoExportPage(offset) {
+  const params = new URLSearchParams({
+    tables: "Players",
+    fields: cargoFields.join(","),
+    order_by: "ID ASC",
+    limit: String(CARGO_LIMIT),
+    offset: String(offset),
+    format: "json"
+  });
+  const json = await fetchJson(`${LEAGUEPEDIA_EXPORT}?${params.toString()}`);
+
+  if (!Array.isArray(json)) {
+    throw new Error("Leaguepedia CargoExport response was not a JSON row array.");
+  }
+
+  return json;
+}
+
+async function fetchCargoApiPage(offset) {
   const params = new URLSearchParams({
     tables: "Players",
     fields: cargoFields.join(","),
