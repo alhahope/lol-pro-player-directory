@@ -1,9 +1,11 @@
 {
-  "generatedAt": "1970-01-01T00:00:00.000Z",
-  "source": "seed",
+  "generatedAt": "2026-07-09T09:54:18.303Z",
+  "source": "Leaguepedia Players Cargo table",
+  "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
-    "ok": true,
-    "message": "种子数据。"
+    "ok": false,
+    "message": "Leaguepedia 更新失败：ratelimited: You've exceeded your rate limit. Please wait some time and try again.",
+    "lastSuccessfulAt": "1970-01-01T00:00:00.000Z"
   },
   "summary": {
     "total": 0,
