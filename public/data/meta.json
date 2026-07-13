@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-12T04:58:24.772Z",
+  "generatedAt": "2026-07-13T05:05:22.894Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,613 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,616 条选手记录。"
   },
   "summary": {
-    "total": 20613,
-    "active": 9223,
-    "retired": 11390,
+    "total": 20616,
+    "active": 9228,
+    "retired": 11388,
     "countries": 128,
-    "teams": 828,
+    "teams": 825,
     "personalities": 1914
   },
   "facets": {
@@ -184,6 +184,7 @@
     ],
     "teams": [
       "100 Thieves",
+      "2 Massive",
       "24 7 Tower Dive",
       "3BL Esports",
       "3v Team",
@@ -326,7 +327,6 @@
       "Crystal Rose (French Team)",
       "CTBC Flying Oyster",
       "CTBC Flying Oyster Academy",
-      "Cuban Raft Raiders",
       "Cumberland University",
       "Cupid Esports",
       "CUT Esports",
@@ -366,7 +366,6 @@
       "Dplus Kia Academy",
       "Dplus Kia Challengers",
       "Dplus Kia Youth",
-      "Dragons Esports",
       "DREAGS",
       "Dream Esports",
       "Dream in 24",
@@ -425,7 +424,6 @@
       "Florida Southern College",
       "Fluxo W7M",
       "FlyQuest",
-      "FN Esports",
       "Fnatic",
       "Forsaken (Polish Team)",
       "Fortress Esports",
@@ -552,7 +550,6 @@
       "Kawaii Kiwis",
       "Keiser University",
       "Kent State University",
-      "Keypulse Esports",
       "KIA.eSuba Academy",
       "KIT SC White",
       "Kits Esports",
