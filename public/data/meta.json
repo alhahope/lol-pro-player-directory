@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-13T05:05:22.894Z",
+  "generatedAt": "2026-07-14T04:33:36.822Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20616,
-    "active": 9228,
-    "retired": 11388,
+    "active": 9226,
+    "retired": 11390,
     "countries": 128,
-    "teams": 825,
+    "teams": 826,
     "personalities": 1914
   },
   "facets": {
@@ -347,6 +347,7 @@
       "Dignitas",
       "Dimokritos Esports",
       "Disguised",
+      "Disruptors",
       "Diversion Gaming",
       "DKB XPERION NXT",
       "DMG Esports",
