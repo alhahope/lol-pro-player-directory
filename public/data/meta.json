@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-14T04:33:36.822Z",
+  "generatedAt": "2026-07-15T04:33:41.449Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,616 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,619 条选手记录。"
   },
   "summary": {
-    "total": 20616,
-    "active": 9226,
+    "total": 20619,
+    "active": 9229,
     "retired": 11390,
     "countries": 128,
-    "teams": 826,
+    "teams": 827,
     "personalities": 1914
   },
   "facets": {
@@ -771,6 +771,7 @@
       "Rochester University",
       "Røkt Skinke",
       "Rollin They Hatin",
+      "Roosevelt University",
       "ROSSMANN Centaurs",
       "RoyalBlue eSports",
       "Ruddy Corporation",
