@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-16T04:43:42.402Z",
+  "generatedAt": "2026-07-17T04:46:48.227Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,620 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,630 条选手记录。"
   },
   "summary": {
-    "total": 20620,
-    "active": 9230,
+    "total": 20630,
+    "active": 9240,
     "retired": 11390,
     "countries": 128,
-    "teams": 827,
+    "teams": 826,
     "personalities": 1914
   },
   "facets": {
@@ -769,8 +769,8 @@
       "RMD Gaming",
       "Rochester Institute of Technology",
       "Rochester University",
+      "RogerSaMa",
       "Røkt Skinke",
-      "Rollin They Hatin",
       "Roosevelt University",
       "ROSSMANN Centaurs",
       "RoyalBlue eSports",
@@ -966,12 +966,12 @@
       "VfB eSports",
       "Victorious Demons",
       "Vietnam Championship Series",
-      "Viper Night Raider",
       "Vitality Rising Bees",
       "Vitality.Bee",
       "Vivo Keyd Stars",
       "Vivo Keyd Stars Academy",
       "Void Esports",
+      "Volda E-Sport",
       "Volticons",
       "wangting",
       "WAP Esports Academy",
@@ -990,7 +990,6 @@
       "WitchHUB",
       "WLGaming Esports",
       "WLGaming Esports Academy",
-      "Xu Ji Basalt",
       "XV eSports",
       "YaLLa Esports",
       "Yang Dae Pal Korean BBQ Restaurant",
