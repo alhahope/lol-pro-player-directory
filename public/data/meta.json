@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-07-17T04:46:48.227Z",
+  "generatedAt": "2026-07-18T04:31:48.122Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,630 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,635 条选手记录。"
   },
   "summary": {
-    "total": 20630,
-    "active": 9240,
-    "retired": 11390,
+    "total": 20635,
+    "active": 9246,
+    "retired": 11389,
     "countries": 128,
     "teams": 826,
-    "personalities": 1914
+    "personalities": 1915
   },
   "facets": {
     "roles": [
@@ -387,12 +387,12 @@
       "Eintracht Spandau",
       "Eintracht Spandau Zwei",
       "EKO Esports",
+      "Embrace Whatever Happens",
       "EmBRAZA! Esports",
       "Empoliga VP",
       "Entropiq",
       "Epic Avalanche",
       "Epitomy Esports",
-      "Equinox Core",
       "Erm",
       "ESC Shane",
       "Espergærde eSport",
@@ -475,6 +475,7 @@
       "Golden Lions Academy",
       "Golden Soul",
       "Good Chi",
+      "Good Chi Sakura",
       "Grand View University",
       "Ground Zero Academy",
       "Ground Zero Gaming",
@@ -673,7 +674,6 @@
       "Northeastern University",
       "Northern League of Legends Championship",
       "Northwood University",
-      "Nova Esports (Taiwanese Team)",
       "Novasphere Gaming",
       "NOVEX",
       "NOVO Esports",
@@ -954,7 +954,6 @@
       "Valkiria's Thunder",
       "Valkiria's Vikings",
       "Vancouver Impact",
-      "Vandals Clan",
       "VARREL YOUTH",
       "Vasco E-Sports",
       "VCS English",
@@ -990,6 +989,7 @@
       "WitchHUB",
       "WLGaming Esports",
       "WLGaming Esports Academy",
+      "Xi Lai Gaming",
       "XV eSports",
       "YaLLa Esports",
       "Yang Dae Pal Korean BBQ Restaurant",
