@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-18T04:31:48.122Z",
+  "generatedAt": "2026-07-19T04:54:51.086Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,635 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,640 条选手记录。"
   },
   "summary": {
-    "total": 20635,
-    "active": 9246,
-    "retired": 11389,
+    "total": 20640,
+    "active": 9249,
+    "retired": 11391,
     "countries": 128,
-    "teams": 826,
+    "teams": 825,
     "personalities": 1915
   },
   "facets": {
@@ -636,7 +636,6 @@
       "Misa Esports",
       "Misfits Gaming",
       "Mogambos",
-      "Möhköfantit",
       "Movistar KOI",
       "Movistar KOI Fénix",
       "Movistar KOI Karps",
@@ -846,6 +845,7 @@
       "SU Esports",
       "Supernova",
       "Sussy Six",
+      "Sweet River eSports",
       "T1",
       "T1 Esports Academy",
       "T1 Esports Academy Rookies",
@@ -889,7 +889,6 @@
       "The Bandits UK",
       "The Black Lotus",
       "The Final Tribe",
-      "The Gulls Esports",
       "The New Kings",
       "The ParadOx Academy",
       "The ParadOx Invaders",
