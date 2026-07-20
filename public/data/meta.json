@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-07-19T04:54:51.086Z",
+  "generatedAt": "2026-07-20T05:21:32.608Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,640 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,643 条选手记录。"
   },
   "summary": {
-    "total": 20640,
-    "active": 9249,
+    "total": 20643,
+    "active": 9252,
     "retired": 11391,
     "countries": 128,
-    "teams": 825,
-    "personalities": 1915
+    "teams": 823,
+    "personalities": 1916
   },
   "facets": {
     "roles": [
@@ -295,7 +295,6 @@
       "CGN Esports",
       "Cicadas Gaming",
       "Circuito Tormenta",
-      "Circus Kittens",
       "CITA Kaizen",
       "CITA Kaizen Academy",
       "Citadel Gaming",
@@ -659,7 +658,6 @@
       "Ngựa Hí Esports",
       "Night Cap",
       "Nightbirds",
-      "Nigma Galaxy Male",
       "Nimborn",
       "Nine Lives Esports",
       "Ninjas in Pyjamas.CN",
@@ -736,7 +734,6 @@
       "Pulse Star",
       "Purdue University",
       "Purdue University Northwest",
-      "PvB (Swiss Team)",
       "Pyramid IV Esports",
       "QLASH",
       "QTV Gaming",
@@ -962,6 +959,7 @@
       "Verdant",
       "Verdant Academy",
       "VfB eSports",
+      "VfB x Engines Stuttgart",
       "Victorious Demons",
       "Vietnam Championship Series",
       "Vitality Rising Bees",
