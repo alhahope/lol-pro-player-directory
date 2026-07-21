@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-20T05:21:32.608Z",
+  "generatedAt": "2026-07-21T04:51:31.289Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,643 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,645 条选手记录。"
   },
   "summary": {
-    "total": 20643,
-    "active": 9252,
+    "total": 20645,
+    "active": 9254,
     "retired": 11391,
     "countries": 128,
-    "teams": 823,
+    "teams": 824,
     "personalities": 1916
   },
   "facets": {
@@ -734,6 +734,7 @@
       "Pulse Star",
       "Purdue University",
       "Purdue University Northwest",
+      "PvB (Swiss Team)",
       "Pyramid IV Esports",
       "QLASH",
       "QTV Gaming",
