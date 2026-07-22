@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-21T04:51:31.289Z",
+  "generatedAt": "2026-07-22T04:51:29.213Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20645,
-    "active": 9254,
-    "retired": 11391,
+    "active": 9250,
+    "retired": 11395,
     "countries": 128,
-    "teams": 824,
+    "teams": 823,
     "personalities": 1916
   },
   "facets": {
@@ -271,7 +271,6 @@
       "Boston University",
       "Botafogo Esports Fem",
       "Box Studio",
-      "Brazilian Storm",
       "Brest Esport",
       "Brewton-Parker College",
       "Briar Cliff University",
