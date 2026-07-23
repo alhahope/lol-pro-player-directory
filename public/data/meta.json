@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-22T04:51:29.213Z",
+  "generatedAt": "2026-07-23T04:57:30.474Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,645 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,649 条选手记录。"
   },
   "summary": {
-    "total": 20645,
-    "active": 9250,
-    "retired": 11395,
+    "total": 20649,
+    "active": 9258,
+    "retired": 11391,
     "countries": 128,
-    "teams": 823,
+    "teams": 824,
     "personalities": 1916
   },
   "facets": {
@@ -252,7 +252,6 @@
       "Big Plays Incorporated",
       "Bilibili Gaming",
       "Bilibili Gaming Junior",
-      "Bitfix RG",
       "BK ROG Esports",
       "Black Lion",
       "Black Rock Esports",
@@ -756,6 +755,7 @@
       "Reset E-Sports",
       "Respawned Esports",
       "Reveal Multigaming",
+      "Rich Gang (Norwegian Team)",
       "Rich Gang Finland",
       "Riot Games Inc.",
       "Rise Gaming",
@@ -799,6 +799,7 @@
       "Shadow Corp",
       "Shadow ELG",
       "Shadow Keepers Esports",
+      "Shark Attack",
       "SharkBite Furious Gaming",
       "SharkBite Furious Gaming Black",
       "SharkBite Furious Gaming White",
