@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-07-24T04:53:14.618Z",
+  "generatedAt": "2026-07-25T04:48:54.469Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,651 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,654 条选手记录。"
   },
   "summary": {
-    "total": 20651,
-    "active": 9259,
-    "retired": 11392,
+    "total": 20654,
+    "active": 9260,
+    "retired": 11394,
     "countries": 128,
-    "teams": 824,
-    "personalities": 1916
+    "teams": 820,
+    "personalities": 1919
   },
   "facets": {
     "roles": [
@@ -292,7 +292,6 @@
       "CERBERUS Esports (Vietnamese Team)",
       "CGN Esports",
       "Cicadas Gaming",
-      "Circuito Tormenta",
       "CITA Kaizen",
       "CITA Kaizen Academy",
       "Citadel Gaming",
@@ -319,7 +318,6 @@
       "Creed Gaming",
       "Creed Gaming Academy",
       "Croatian Flair",
-      "Crusaders",
       "Cryptova",
       "Crystal Rose (French Team)",
       "CTBC Flying Oyster",
@@ -476,7 +474,6 @@
       "Grand View University",
       "Ground Zero Academy",
       "Ground Zero Gaming",
-      "GTZ Esports",
       "Guinea Pink",
       "GWARDIAN BOX",
       "HANJIN BRION",
@@ -995,7 +992,6 @@
       "York University",
       "Yumeea",
       "ZEN Esports (Argentinian Team)",
-      "ZEN Esports (Vietnamese Team)",
       "Zena Esports",
       "ZennIT",
       "ZennIT Academy",
