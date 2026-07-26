@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-07-25T04:48:54.469Z",
+  "generatedAt": "2026-07-26T05:03:16.512Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,654 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,656 条选手记录。"
   },
   "summary": {
-    "total": 20654,
-    "active": 9260,
-    "retired": 11394,
+    "total": 20656,
+    "active": 9259,
+    "retired": 11397,
     "countries": 128,
     "teams": 820,
-    "personalities": 1919
+    "personalities": 1920
   },
   "facets": {
     "roles": [
@@ -303,6 +303,7 @@
       "Cleveland State University",
       "Cloud eSport",
       "Cloud9",
+      "CNB Academy Trinity Blue",
       "CNB e-Sports Club",
       "Colors Esport",
       "Colossal Gaming",
@@ -914,7 +915,6 @@
       "University of British Columbia",
       "University of California Berkeley",
       "University of California Irvine",
-      "University of California Riverside",
       "University of California San Diego",
       "University of California Santa Cruz",
       "University of Central Florida",
