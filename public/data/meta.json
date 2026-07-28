@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-07-27T05:29:50.640Z",
+  "generatedAt": "2026-07-28T04:47:16.896Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,660 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,662 条选手记录。"
   },
   "summary": {
-    "total": 20660,
-    "active": 9263,
+    "total": 20662,
+    "active": 9265,
     "retired": 11397,
     "countries": 128,
-    "teams": 825,
+    "teams": 824,
     "personalities": 1923
   },
   "facets": {
@@ -235,6 +235,7 @@
       "Aurora Hub",
       "AveEsports",
       "Axolotl",
+      "AZ Rising Eterna",
       "AzE eSports",
       "Azules Esports Fem",
       "B2U",
@@ -319,7 +320,6 @@
       "Corinthians Clan",
       "Creed Gaming",
       "Creed Gaming Academy",
-      "Croatian Flair",
       "Cryptova",
       "Crystal Rose (French Team)",
       "CTBC Flying Oyster",
@@ -342,6 +342,7 @@
       "DetonatioN FocusMe Academy",
       "devils.one inStreamly",
       "Dexterity Team",
+      "DIA Ozarox Esports",
       "Dignitas",
       "Dimokritos Esports",
       "Disguised",
@@ -397,7 +398,6 @@
       "Esprit Shōnen",
       "Estral Esports",
       "eSuba",
-      "Eterna",
       "Eternal Flame (Chilean Team)",
       "Eternals Gaming",
       "Ethereal Enigmas",
@@ -699,7 +699,6 @@
       "Ownage Gaming",
       "Ownage Gaming Black",
       "Oxygen Gaming",
-      "Ozarox Esports",
       "P11 Esports",
       "Pacific Championship Series",
       "Packmiko E-Sports DACH",
