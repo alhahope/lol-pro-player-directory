@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-07-28T04:47:16.896Z",
+  "generatedAt": "2026-07-29T04:51:56.849Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,662 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,675 条选手记录。"
   },
   "summary": {
-    "total": 20662,
-    "active": 9265,
-    "retired": 11397,
+    "total": 20675,
+    "active": 9281,
+    "retired": 11394,
     "countries": 128,
-    "teams": 824,
-    "personalities": 1923
+    "teams": 828,
+    "personalities": 1924
   },
   "facets": {
     "roles": [
@@ -320,6 +320,7 @@
       "Corinthians Clan",
       "Creed Gaming",
       "Creed Gaming Academy",
+      "Croatian Flair x RLX",
       "Cryptova",
       "Crystal Rose (French Team)",
       "CTBC Flying Oyster",
@@ -371,6 +372,7 @@
       "Drexel University",
       "Drury University",
       "DRX",
+      "Ducks Deluxe x Evil Geniuses",
       "Durham College",
       "Dusty",
       "Dynasty",
@@ -414,6 +416,7 @@
       "Farenvehn Fem",
       "Fast8",
       "Fatui Harbringers",
+      "Femmes Fatales",
       "FENNEL",
       "FH eSports",
       "FINAL FIST",
@@ -423,6 +426,7 @@
       "Florida Southern College",
       "Fluxo W7M",
       "FlyQuest",
+      "FlyQuest RED",
       "Fnatic",
       "Forsaken (Polish Team)",
       "Fortress Esports",
@@ -495,6 +499,7 @@
       "HMBLE",
       "Hong Kong Attitude",
       "Hooded",
+      "Hooligans",
       "Hour Zero Esports",
       "Ici Japon Corp. Esport",
       "IFSP Midas",
@@ -625,6 +630,7 @@
       "Miami University",
       "Michigan State University",
       "Michigan Technological University",
+      "Mighty Eagle (Taiwanese Team)",
       "Mighty Meerkats",
       "Milk Esports Whole Milk",
       "Mind Blue eSports",
@@ -797,7 +803,6 @@
       "Shadow Bloom",
       "Shadow Corp",
       "Shadow ELG",
-      "Shadow Keepers Esports",
       "Shark Attack",
       "SharkBite Furious Gaming",
       "SharkBite Furious Gaming Black",
@@ -971,7 +976,6 @@
       "Void Esports",
       "Volda E-Sport",
       "Volticons",
-      "wangting",
       "WAP Esports Academy",
       "Washington University in St. Louis",
       "Way Hunter Esports",
