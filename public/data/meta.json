@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-03T05:21:38.918Z",
+  "generatedAt": "2026-08-04T04:47:56.745Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,694 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,693 条选手记录。"
   },
   "summary": {
-    "total": 20694,
+    "total": 20693,
     "active": 9297,
-    "retired": 11397,
+    "retired": 11396,
     "countries": 128,
-    "teams": 835,
-    "personalities": 1926
+    "teams": 836,
+    "personalities": 1928
   },
   "facets": {
     "roles": [
@@ -835,6 +835,7 @@
       "Soul's Heart Esport",
       "Space Rabbit e-Sports",
       "Spartans EU",
+      "Spartans Javelins",
       "Sphere Esports",
       "SPIKE Syndicate",
       "Spirituals",
