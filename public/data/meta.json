@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-04T04:47:56.745Z",
+  "generatedAt": "2026-08-05T04:47:41.546Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,693 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,699 条选手记录。"
   },
   "summary": {
-    "total": 20693,
-    "active": 9297,
+    "total": 20699,
+    "active": 9303,
     "retired": 11396,
     "countries": 128,
-    "teams": 836,
-    "personalities": 1928
+    "teams": 835,
+    "personalities": 1930
   },
   "facets": {
     "roles": [
@@ -622,7 +622,6 @@
       "MCOM eSports",
       "mCon esports",
       "Meavedron",
-      "Meavedron Anonymo Master Academy",
       "Meebo's Weebos",
       "Melon Milk Lifestyle",
       "Member of Advisory Board LCK CL",
