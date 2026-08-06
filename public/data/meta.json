@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-05T04:47:41.546Z",
+  "generatedAt": "2026-08-06T04:48:13.618Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,699 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,698 条选手记录。"
   },
   "summary": {
-    "total": 20699,
-    "active": 9303,
+    "total": 20698,
+    "active": 9302,
     "retired": 11396,
     "countries": 128,
-    "teams": 835,
-    "personalities": 1930
+    "teams": 838,
+    "personalities": 1929
   },
   "facets": {
     "roles": [
@@ -244,8 +244,8 @@
       "Ball State University",
       "Bamboo Juice",
       "Barça eSports",
-      "Barcząca Esports",
       "Barcząca Esports Babylon",
+      "Barcząca Esports by Yumisu",
       "Bastu Five",
       "BAU Esports",
       "Berlin International Gaming",
@@ -833,6 +833,7 @@
       "Sørby eSport",
       "Soul's Heart Esport",
       "Space Rabbit e-Sports",
+      "Sparky (Singaporean Team)",
       "Spartans EU",
       "Spartans Javelins",
       "Sphere Esports",
@@ -857,6 +858,7 @@
       "Tactical Esports",
       "Tan'i eSports",
       "TCA eSports",
+      "Team 300 Black",
       "Team Alkya",
       "Team Apex",
       "Team CD",
@@ -908,6 +910,7 @@
       "Top Esports Challenger",
       "Toronto Metropolitan University",
       "TQ DURPA KASHLQ",
+      "Trident Esports",
       "TSM",
       "Tsunami Studios",
       "Tu Papá Esports",
