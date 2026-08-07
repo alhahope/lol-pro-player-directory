@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-06T04:48:13.618Z",
+  "generatedAt": "2026-08-07T04:14:08.932Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20698,
-    "active": 9302,
-    "retired": 11396,
+    "active": 9298,
+    "retired": 11400,
     "countries": 128,
-    "teams": 838,
+    "teams": 839,
     "personalities": 1929
   },
   "facets": {
@@ -269,6 +269,7 @@
       "BOREAL",
       "Borregos MTY",
       "Boston University",
+      "Botafogo Esports",
       "Botafogo Esports Fem",
       "Box Studio",
       "Brest Esport",
@@ -616,6 +617,7 @@
       "Mais Esports",
       "Majoris Angels",
       "Malvinas Gaming",
+      "Marere Academy",
       "Maryville University",
       "Masonic",
       "Maze Gaming",
@@ -808,7 +810,6 @@
       "SharkBite Furious Gaming",
       "SharkBite Furious Gaming Black",
       "SharkBite Furious Gaming White",
-      "SharkBite Furious Gaming Yellow",
       "Sheep Esports",
       "Sheep Esports Brazil",
       "Shifters",
