@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-08T03:12:45.818Z",
+  "generatedAt": "2026-08-09T03:19:53.940Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20699,
-    "active": 9297,
-    "retired": 11402,
+    "active": 9298,
+    "retired": 11401,
     "countries": 128,
-    "teams": 839,
+    "teams": 838,
     "personalities": 1929
   },
   "facets": {
@@ -832,7 +832,6 @@
       "Solary",
       "Solary Eclipse",
       "Sørby eSport",
-      "Soul's Heart Esport",
       "Space Rabbit e-Sports",
       "Sparky (Singaporean Team)",
       "Spartans EU",
