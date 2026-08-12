@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-11T03:22:26.240Z",
+  "generatedAt": "2026-08-12T03:49:51.436Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,707 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,711 条选手记录。"
   },
   "summary": {
-    "total": 20707,
-    "active": 9300,
+    "total": 20711,
+    "active": 9304,
     "retired": 11407,
     "countries": 128,
-    "teams": 838,
+    "teams": 839,
     "personalities": 1931
   },
   "facets": {
@@ -765,6 +765,7 @@
       "Reveal Multigaming",
       "Rich Gang (Norwegian Team)",
       "Rich Gang Finland",
+      "Rich Gang UK",
       "Riot Games Inc.",
       "Rise Gaming",
       "Rising Reapers",
