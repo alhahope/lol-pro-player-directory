@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-12T03:49:51.436Z",
+  "generatedAt": "2026-08-13T03:53:08.797Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,711 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,716 条选手记录。"
   },
   "summary": {
-    "total": 20711,
-    "active": 9304,
-    "retired": 11407,
+    "total": 20716,
+    "active": 9310,
+    "retired": 11406,
     "countries": 128,
-    "teams": 839,
+    "teams": 840,
     "personalities": 1931
   },
   "facets": {
@@ -839,6 +839,7 @@
       "Spartans Javelins",
       "Sphere Esports",
       "SPIKE Syndicate",
+      "Spirit Blossom",
       "Spirituals",
       "Sponge Gaming",
       "Spongecord prime",
