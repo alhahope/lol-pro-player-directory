@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-13T03:53:08.797Z",
+  "generatedAt": "2026-08-14T03:50:23.173Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,716 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,714 条选手记录。"
   },
   "summary": {
-    "total": 20716,
-    "active": 9310,
-    "retired": 11406,
+    "total": 20714,
+    "active": 9302,
+    "retired": 11412,
     "countries": 128,
-    "teams": 840,
-    "personalities": 1931
+    "teams": 839,
+    "personalities": 1932
   },
   "facets": {
     "roles": [
@@ -834,7 +834,6 @@
       "Solary Eclipse",
       "Sørby eSport",
       "Space Rabbit e-Sports",
-      "Sparky (Singaporean Team)",
       "Spartans EU",
       "Spartans Javelins",
       "Sphere Esports",
