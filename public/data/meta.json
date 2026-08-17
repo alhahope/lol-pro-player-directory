@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-16T02:46:01.017Z",
+  "generatedAt": "2026-08-17T02:45:38.412Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20717,
-    "active": 9297,
-    "retired": 11420,
+    "active": 9288,
+    "retired": 11429,
     "countries": 128,
-    "teams": 839,
+    "teams": 840,
     "personalities": 1932
   },
   "facets": {
@@ -387,6 +387,7 @@
       "Eintracht Spandau",
       "Eintracht Spandau Zwei",
       "EKO Esports",
+      "Elysion Esports",
       "Embrace Whatever Happens",
       "EmBRAZA! Esports",
       "Empoliga VP",
@@ -705,6 +706,7 @@
       "Onnei Esports",
       "Original Gaming",
       "Orion Esport Red",
+      "ØTF",
       "Otter Side",
       "Outplayed",
       "Ownage Gaming",
@@ -863,7 +865,6 @@
       "Team Alkya",
       "Team Apex",
       "Team CD",
-      "Team Evermeet",
       "Team Falcons",
       "Team Heretics",
       "Team Heretics Academy",
