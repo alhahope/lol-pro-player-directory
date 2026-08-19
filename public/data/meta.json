@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-08-18T02:40:52.665Z",
+  "generatedAt": "2026-08-19T02:42:54.953Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,11 +8,11 @@
   },
   "summary": {
     "total": 20721,
-    "active": 9294,
-    "retired": 11427,
+    "active": 9288,
+    "retired": 11433,
     "countries": 128,
-    "teams": 840,
-    "personalities": 1932
+    "teams": 842,
+    "personalities": 1933
   },
   "facets": {
     "roles": [
@@ -616,6 +616,7 @@
       "Machi Esports",
       "Magaza Esports",
       "Mais Esports",
+      "Majestics",
       "Majoris Angels",
       "Malvinas Gaming",
       "Marere Academy",
@@ -703,6 +704,7 @@
       "One More Esports",
       "One Trick Production",
       "Onion Team",
+      "Only The Family",
       "Onnei Esports",
       "Original Gaming",
       "Orion Esport Red",
