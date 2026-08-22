@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-21T02:48:26.539Z",
+  "generatedAt": "2026-08-22T02:39:10.166Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,722 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,724 条选手记录。"
   },
   "summary": {
-    "total": 20722,
-    "active": 9289,
-    "retired": 11433,
+    "total": 20724,
+    "active": 9281,
+    "retired": 11443,
     "countries": 128,
-    "teams": 843,
+    "teams": 844,
     "personalities": 1933
   },
   "facets": {
@@ -302,6 +302,7 @@
       "Clã NKZ Raccoons",
       "Clã NKZ Reapers",
       "CLÃ NKZ Rising",
+      "Clã NKZ Vórtex",
       "Cleary University",
       "Cleveland State University",
       "Cloud eSport",
