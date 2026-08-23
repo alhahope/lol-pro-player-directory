@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-22T02:39:10.166Z",
+  "generatedAt": "2026-08-23T02:48:42.737Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,724 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,726 条选手记录。"
   },
   "summary": {
-    "total": 20724,
-    "active": 9281,
+    "total": 20726,
+    "active": 9283,
     "retired": 11443,
     "countries": 128,
-    "teams": 844,
+    "teams": 843,
     "personalities": 1933
   },
   "facets": {
@@ -348,7 +348,6 @@
       "Dimokritos Esports",
       "Disguised",
       "Disruptors",
-      "Diversion Gaming",
       "DKB XPERION NXT",
       "DMG Esports",
       "DN SOOPers",
