@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-23T02:48:42.737Z",
+  "generatedAt": "2026-08-24T02:49:10.996Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,726 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,727 条选手记录。"
   },
   "summary": {
-    "total": 20726,
-    "active": 9283,
-    "retired": 11443,
+    "total": 20727,
+    "active": 9286,
+    "retired": 11441,
     "countries": 128,
-    "teams": 843,
+    "teams": 844,
     "personalities": 1933
   },
   "facets": {
@@ -479,6 +479,7 @@
       "Golden Lions Academy",
       "Golden Soul",
       "Good Chi",
+      "Good Chi (MYSGID team)",
       "Good Chi Sakura",
       "Grand View University",
       "Gravity (2024 North American Team)",
