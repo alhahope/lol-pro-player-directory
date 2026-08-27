@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-26T02:51:04.659Z",
+  "generatedAt": "2026-08-27T12:00:17.088Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,729 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,735 条选手记录。"
   },
   "summary": {
-    "total": 20729,
-    "active": 9287,
-    "retired": 11442,
+    "total": 20735,
+    "active": 9291,
+    "retired": 11444,
     "countries": 128,
-    "teams": 844,
+    "teams": 843,
     "personalities": 1935
   },
   "facets": {
@@ -301,6 +301,7 @@
       "Clã NKZ",
       "Clã NKZ Raccoons",
       "Clã NKZ Reapers",
+      "Clã NKZ Rising",
       "CLÃ NKZ Rising",
       "Clã NKZ Vórtex",
       "Cleary University",
@@ -566,7 +567,6 @@
       "KT Rolster",
       "KT Rolster Academy",
       "KT Rolster Challengers",
-      "Kuma e-Sports",
       "Kun Shan Lightning Tiger",
       "L Guide Gaming",
       "Lane Zero Typhoon",
@@ -636,6 +636,7 @@
       "Miau",
       "Michigan State University",
       "Michigan Technological University",
+      "Mighty Eagles",
       "Mighty Meerkats",
       "Mind Blue eSports",
       "Miracle (North American Team)",
@@ -754,7 +755,6 @@
       "R5 Esports",
       "Rage Bait e-Sports",
       "Raise Your Flag",
-      "RAMPAGE (Brazilian Team)",
       "RAYN Clocks",
       "Rebels Gaming",
       "RED Academy",
@@ -982,7 +982,6 @@
       "Verdant",
       "VfB eSports",
       "VfB x Engines Stuttgart",
-      "Victorious Demons",
       "Vietnam Championship Series",
       "Vitality Rising Bees",
       "Vitality.Bee",
