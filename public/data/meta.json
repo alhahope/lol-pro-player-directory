@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-27T12:00:17.088Z",
+  "generatedAt": "2026-08-28T13:20:37.066Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,735 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,738 条选手记录。"
   },
   "summary": {
-    "total": 20735,
-    "active": 9291,
+    "total": 20738,
+    "active": 9294,
     "retired": 11444,
     "countries": 128,
-    "teams": 843,
+    "teams": 845,
     "personalities": 1935
   },
   "facets": {
@@ -302,7 +302,6 @@
       "Clã NKZ Raccoons",
       "Clã NKZ Reapers",
       "Clã NKZ Rising",
-      "CLÃ NKZ Rising",
       "Clã NKZ Vórtex",
       "Cleary University",
       "Cleveland State University",
@@ -695,6 +694,7 @@
       "Oakland University",
       "Obicham Pyrjoli",
       "Observant Force",
+      "Ocean &amp; Kimi Tournament Alliance",
       "Odyssey Gaming (Greek Team)",
       "Offline TV",
       "Oh My God",
@@ -983,6 +983,7 @@
       "VfB eSports",
       "VfB x Engines Stuttgart",
       "Vietnam Championship Series",
+      "Viktus",
       "Vitality Rising Bees",
       "Vitality.Bee",
       "Vivo Keyd Stars",
@@ -1025,6 +1026,7 @@
       "Zerolag Esports",
       "ZeroZone Gaming",
       "Zeu5 Esports",
+      "ZSK (Chinese Team)",
       "ZYB Esport"
     ]
   }
