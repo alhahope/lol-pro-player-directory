@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-28T13:20:37.066Z",
+  "generatedAt": "2026-08-29T08:17:38.602Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,738 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,740 条选手记录。"
   },
   "summary": {
-    "total": 20738,
-    "active": 9294,
-    "retired": 11444,
+    "total": 20740,
+    "active": 9299,
+    "retired": 11441,
     "countries": 128,
-    "teams": 845,
-    "personalities": 1935
+    "teams": 846,
+    "personalities": 1936
   },
   "facets": {
     "roles": [
@@ -1004,6 +1004,7 @@
       "West Point Esports Cadets",
       "West Point Esports Philippines",
       "Whisky",
+      "White Dragons",
       "Winthrop University",
       "WitchHUB",
       "WLGaming Esports",
