@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-08-29T08:17:38.602Z",
+  "generatedAt": "2026-08-30T07:21:40.760Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,740 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,744 条选手记录。"
   },
   "summary": {
-    "total": 20740,
-    "active": 9299,
-    "retired": 11441,
+    "total": 20744,
+    "active": 9302,
+    "retired": 11442,
     "countries": 128,
     "teams": 846,
-    "personalities": 1936
+    "personalities": 1937
   },
   "facets": {
     "roles": [
