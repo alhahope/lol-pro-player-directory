@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-08-31T07:36:56.422Z",
+  "generatedAt": "2026-09-01T06:45:13.260Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,745 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,754 条选手记录。"
   },
   "summary": {
-    "total": 20745,
-    "active": 9298,
-    "retired": 11447,
+    "total": 20754,
+    "active": 9310,
+    "retired": 11444,
     "countries": 128,
-    "teams": 846,
+    "teams": 845,
     "personalities": 1938
   },
   "facets": {
@@ -694,7 +694,6 @@
       "Oakland University",
       "Obicham Pyrjoli",
       "Observant Force",
-      "Ocean &amp; Kimi Tournament Alliance",
       "Odyssey Gaming (Greek Team)",
       "Offline TV",
       "Oh My God",
