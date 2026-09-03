@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-02T06:24:07.580Z",
+  "generatedAt": "2026-09-03T06:28:32.543Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20756,
-    "active": 9312,
-    "retired": 11444,
+    "active": 9313,
+    "retired": 11443,
     "countries": 128,
-    "teams": 845,
+    "teams": 844,
     "personalities": 1938
   },
   "facets": {
@@ -403,7 +403,6 @@
       "eSuba",
       "Eternal Flame (Chilean Team)",
       "Eternals Gaming",
-      "Ethereal Enigmas",
       "ETM",
       "Exalty",
       "EXILE esports",
