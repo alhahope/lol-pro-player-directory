@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-04T06:34:38.236Z",
+  "generatedAt": "2026-09-05T06:18:15.121Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20757,
-    "active": 9314,
-    "retired": 11443,
+    "active": 9319,
+    "retired": 11438,
     "countries": 128,
-    "teams": 843,
+    "teams": 841,
     "personalities": 1938
   },
   "facets": {
@@ -530,9 +530,7 @@
       "Irvine Valley College",
       "Isurus",
       "J Team",
-      "Japão FC",
       "JD Gaming",
-      "Joblife",
       "Jörmungang Academy",
       "Jötunn (Icelandic Team)",
       "JSK Academy",
@@ -664,7 +662,6 @@
       "NextGeneration Esports",
       "Nexus Academy",
       "Nexus Siege",
-      "Ngựa Hí Esports",
       "Night Cap",
       "Nightbirds",
       "Nimborn",
@@ -712,7 +709,6 @@
       "Otter Side",
       "Outplayed",
       "Ownage Gaming",
-      "Ownage Gaming Black",
       "Oxygen Gaming",
       "P11 Esports",
       "Pacific Championship Series",
@@ -768,6 +764,7 @@
       "Reveal Multigaming",
       "Rich Gang (Norwegian Team)",
       "Rich Gang Finland",
+      "Rich Gang Sweden",
       "Rich Gang UK",
       "Riot Games Inc.",
       "Rise Gaming",
@@ -990,6 +987,7 @@
       "Volda E-Sport",
       "Volticons",
       "WAP Esports Academy",
+      "Warner University",
       "Washington University in St. Louis",
       "Way Hunter Esports",
       "Weber State University",
