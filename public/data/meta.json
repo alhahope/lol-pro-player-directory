@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-05T06:18:15.121Z",
+  "generatedAt": "2026-09-06T06:28:41.676Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,757 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,764 条选手记录。"
   },
   "summary": {
-    "total": 20757,
-    "active": 9319,
-    "retired": 11438,
+    "total": 20764,
+    "active": 9320,
+    "retired": 11444,
     "countries": 128,
-    "teams": 841,
+    "teams": 842,
     "personalities": 1938
   },
   "facets": {
@@ -357,6 +357,7 @@
       "DOCISK Academy",
       "Docta Esports",
       "Docta Liberty",
+      "Dominion Goblins",
       "Domino Computer",
       "Doomed Kings",
       "Dorado Gaming",
@@ -460,6 +461,7 @@
       "GameWard",
       "Garden Gaming",
       "Garena Team",
+      "GD Esports",
       "Gen.G",
       "Gen.G Global Academy",
       "Gen.G Scholars",
@@ -795,7 +797,6 @@
       "Scald eSports",
       "SDM Tigres",
       "SDM Tigres Academy",
-      "Seaven Esports",
       "Second Time Alive",
       "Senshi eSports (Benelux Team)",
       "Senshi eSports (Latin American Team)",
@@ -864,6 +865,7 @@
       "Team Apex",
       "Team CD",
       "Team Falcons",
+      "Team Gromp (Australian Team)",
       "Team Heretics",
       "Team Heretics Academy",
       "Team High Ground",
@@ -986,7 +988,6 @@
       "Void Esports",
       "Volda E-Sport",
       "Volticons",
-      "WAP Esports Academy",
       "Warner University",
       "Washington University in St. Louis",
       "Way Hunter Esports",
