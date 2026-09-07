@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-06T06:28:41.676Z",
+  "generatedAt": "2026-09-07T06:36:58.758Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,764 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,768 条选手记录。"
   },
   "summary": {
-    "total": 20764,
-    "active": 9320,
-    "retired": 11444,
+    "total": 20768,
+    "active": 9317,
+    "retired": 11451,
     "countries": 128,
     "teams": 842,
-    "personalities": 1938
+    "personalities": 1939
   },
   "facets": {
     "roles": [
@@ -367,7 +367,6 @@
       "Dplus Kia Challengers",
       "Dplus Kia Youth",
       "Dragon Ascendant Esports",
-      "DREAGS",
       "Dream Esports",
       "Dream in 24",
       "Drexel University",
@@ -666,6 +665,7 @@
       "Nexus Siege",
       "Night Cap",
       "Nightbirds",
+      "Nikaïa",
       "Nimborn",
       "Nine Lives Esports",
       "Nine Lives Rising",
