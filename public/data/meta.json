@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-07T06:36:58.758Z",
+  "generatedAt": "2026-09-08T06:31:03.984Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,768 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,770 条选手记录。"
   },
   "summary": {
-    "total": 20768,
+    "total": 20770,
     "active": 9317,
-    "retired": 11451,
+    "retired": 11453,
     "countries": 128,
-    "teams": 842,
+    "teams": 843,
     "personalities": 1939
   },
   "facets": {
@@ -184,6 +184,7 @@
     ],
     "teams": [
       "100 Thieves",
+      "1TAP Dino",
       "2 Massive",
       "24 7 Tower Dive",
       "3BL Esports",
@@ -612,6 +613,7 @@
       "LYON Academy",
       "Machi Esports",
       "Magaza Esports",
+      "Magyar Gamer Szövetsèg",
       "Mais Esports",
       "Majestics",
       "Majoris Angels",
@@ -788,7 +790,6 @@
       "S5 Esports",
       "s6x sv7n",
       "S8UL Esports",
-      "Saigon Dino",
       "Saigon Warriors",
       "Samsung Morning Stars",
       "San Jose State University",
