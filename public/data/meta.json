@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-08T06:31:03.984Z",
+  "generatedAt": "2026-09-09T06:39:08.038Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,770 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,774 条选手记录。"
   },
   "summary": {
-    "total": 20770,
-    "active": 9317,
-    "retired": 11453,
+    "total": 20774,
+    "active": 9320,
+    "retired": 11454,
     "countries": 128,
-    "teams": 843,
+    "teams": 844,
     "personalities": 1939
   },
   "facets": {
@@ -351,6 +351,7 @@
       "Disruptors",
       "DKB XPERION NXT",
       "DMG Esports",
+      "DN Freecs Academy",
       "DN SOOPers",
       "DN SOOPers Academy",
       "DN SOOPers Challengers",
