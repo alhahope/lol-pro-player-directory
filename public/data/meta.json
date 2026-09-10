@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-09T06:39:08.038Z",
+  "generatedAt": "2026-09-10T06:37:32.869Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,774 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,784 条选手记录。"
   },
   "summary": {
-    "total": 20774,
-    "active": 9320,
-    "retired": 11454,
+    "total": 20784,
+    "active": 9322,
+    "retired": 11462,
     "countries": 128,
-    "teams": 844,
+    "teams": 841,
     "personalities": 1939
   },
   "facets": {
@@ -204,7 +204,6 @@
       "AceGaming Hearts",
       "AceGaming Wildcard",
       "Aegis (French Team)",
-      "Aeterna Esports",
       "Aethra Esports Strijders",
       "Afterglow Esports",
       "Akave Esports",
@@ -234,7 +233,6 @@
       "Atruvia Münster Esports",
       "Aurora Hub",
       "AveEsports",
-      "Axolotl",
       "AZ Rising Eterna",
       "AzE eSports",
       "Azules Esports Fem",
@@ -351,7 +349,6 @@
       "Disruptors",
       "DKB XPERION NXT",
       "DMG Esports",
-      "DN Freecs Academy",
       "DN SOOPers",
       "DN SOOPers Academy",
       "DN SOOPers Challengers",
@@ -559,6 +556,7 @@
       "KIT SC White",
       "Kits Esports",
       "Kiwoom DRX",
+      "Kiwoom DRX Academy",
       "Kiwoom DRX Challengers",
       "Komaï E-Sport",
       "KS Team",
@@ -852,7 +850,6 @@
       "Stasis Gaming",
       "State University of New York at Buffalo",
       "State University of New York at Stony Brook",
-      "StoneHenge Esports",
       "SU Esports",
       "Supernova",
       "Sweet River eSports",
