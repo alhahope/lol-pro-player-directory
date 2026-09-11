@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-10T06:37:32.869Z",
+  "generatedAt": "2026-09-11T06:37:08.343Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,784 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,790 条选手记录。"
   },
   "summary": {
-    "total": 20784,
-    "active": 9322,
-    "retired": 11462,
+    "total": 20790,
+    "active": 9253,
+    "retired": 11537,
     "countries": 128,
-    "teams": 841,
-    "personalities": 1939
+    "teams": 840,
+    "personalities": 1941
   },
   "facets": {
     "roles": [
@@ -319,7 +319,6 @@
       "Cool Beans Team",
       "Corinthians Clan",
       "Creed Gaming",
-      "Creed Gaming Academy",
       "Croatian Flair x RLX",
       "Cryptova",
       "Crystal Rose (French Team)",
@@ -596,6 +595,7 @@
       "LOOKSMAXXER",
       "LØS",
       "LØS Academy",
+      "Los Goccioles",
       "Los Mapaches",
       "Lotus (North American Team)",
       "LOUD",
@@ -826,7 +826,6 @@
       "Skillcamp",
       "Skillcamp Academy",
       "Smoke Tram",
-      "Smoke Tram Academy",
       "Smoke Tram Trainee",
       "SN CyberCore Esports",
       "SNAKE EATERS",
