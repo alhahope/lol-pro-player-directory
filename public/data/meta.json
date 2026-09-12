@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-11T06:37:08.343Z",
+  "generatedAt": "2026-09-12T06:28:55.865Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,790 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,789 条选手记录。"
   },
   "summary": {
-    "total": 20790,
+    "total": 20789,
     "active": 9253,
-    "retired": 11537,
+    "retired": 11536,
     "countries": 128,
-    "teams": 840,
-    "personalities": 1941
+    "teams": 839,
+    "personalities": 1939
   },
   "facets": {
     "roles": [
@@ -297,11 +297,10 @@
       "CITA Kaizen",
       "CITA Kaizen Academy",
       "Citadel Gaming",
-      "Clã NKZ",
       "Clã NKZ Raccoons",
       "Clã NKZ Reapers",
       "Clã NKZ Rising",
-      "Clã NKZ Vórtex",
+      "Clã NKZ VÓRAX",
       "Cleary University",
       "Cleveland State University",
       "Cloud eSport",
@@ -450,6 +449,7 @@
       "Galaxy Gaming (American Team)",
       "Galions",
       "Galions Sharks",
+      "GaloZeus Center",
       "GAM Esports",
       "GAM3RS X",
       "Game Coach Academy",
@@ -522,6 +522,7 @@
       "International Esports Industry Center",
       "INTZ",
       "Invictus Gaming",
+      "Invictus Team",
       "Invokers",
       "Inygon",
       "Iowa State University",
@@ -763,7 +764,6 @@
       "Rem's Helpers",
       "Rensga Esports",
       "Rensselaer Polytechnic Institute",
-      "Reset E-Sports",
       "Reveal Multigaming",
       "Rich Gang (Norwegian Team)",
       "Rich Gang Finland",
@@ -826,7 +826,7 @@
       "Skillcamp",
       "Skillcamp Academy",
       "Smoke Tram",
-      "Smoke Tram Trainee",
+      "Smoke Tram Ascension",
       "SN CyberCore Esports",
       "SNAKE EATERS",
       "SNOOZE Esports",
@@ -856,7 +856,6 @@
       "T1 Esports Academy",
       "T1 Esports Academy Rookies",
       "Tactical Esports",
-      "Tan'i eSports",
       "TCA eSports",
       "Team 300 Black",
       "Team Alkya",
