@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-12T06:28:55.865Z",
+  "generatedAt": "2026-09-13T06:45:01.260Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,789 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,799 条选手记录。"
   },
   "summary": {
-    "total": 20789,
-    "active": 9253,
-    "retired": 11536,
+    "total": 20799,
+    "active": 9266,
+    "retired": 11533,
     "countries": 128,
-    "teams": 839,
-    "personalities": 1939
+    "teams": 844,
+    "personalities": 1940
   },
   "facets": {
     "roles": [
@@ -353,6 +353,7 @@
       "DOCISK",
       "DOCISK Academy",
       "Docta Esports",
+      "Docta Esports Club",
       "Docta Liberty",
       "Dominion Goblins",
       "Domino Computer",
@@ -604,6 +605,7 @@
       "LUA Gaming",
       "Lunaris Esports (MENA Team)",
       "Lund Esports Organization",
+      "Lund Esports Organization Academy",
       "Lund Esports Organization Zenith",
       "Lundqvist Darkside",
       "Lundqvist Lightside",
@@ -619,6 +621,7 @@
       "Majoris Angels",
       "Malvinas Gaming",
       "Marere Academy",
+      "Marere e-Sports",
       "Maryville University",
       "Masonic",
       "Maze Gaming",
@@ -681,6 +684,7 @@
       "North Carolina State University",
       "Northeastern University",
       "Northern League of Legends Championship",
+      "Northern Wolves Esports",
       "Northwood University",
       "Novasphere Gaming",
       "NOVEX",
@@ -713,6 +717,7 @@
       "Otter Side",
       "Outplayed",
       "Ownage Gaming",
+      "Ownage Gaming Black",
       "Oxygen Gaming",
       "P11 Esports",
       "Pacific Championship Series",
