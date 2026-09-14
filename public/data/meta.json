@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-13T06:45:01.260Z",
+  "generatedAt": "2026-09-14T07:03:14.062Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,799 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,802 条选手记录。"
   },
   "summary": {
-    "total": 20799,
-    "active": 9266,
-    "retired": 11533,
+    "total": 20802,
+    "active": 9268,
+    "retired": 11534,
     "countries": 128,
-    "teams": 844,
+    "teams": 845,
     "personalities": 1940
   },
   "facets": {
@@ -644,6 +644,7 @@
       "Mirage Alliance",
       "Misa Esports",
       "Misfits Gaming",
+      "Missouri Baptist University",
       "Mogambos",
       "Movistar KOI",
       "Movistar KOI Fénix",
