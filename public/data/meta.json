@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-14T07:03:14.062Z",
+  "generatedAt": "2026-09-15T06:40:00.649Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,802 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,804 条选手记录。"
   },
   "summary": {
-    "total": 20802,
+    "total": 20804,
     "active": 9268,
-    "retired": 11534,
+    "retired": 11536,
     "countries": 128,
-    "teams": 845,
+    "teams": 846,
     "personalities": 1940
   },
   "facets": {
@@ -299,6 +299,7 @@
       "Citadel Gaming",
       "Clã NKZ Raccoons",
       "Clã NKZ Reapers",
+      "Clã NKZ Revengers",
       "Clã NKZ Rising",
       "Clã NKZ VÓRAX",
       "Cleary University",
@@ -597,7 +598,6 @@
       "LOOKSMAXXER",
       "LØS",
       "LØS Academy",
-      "Los Goccioles",
       "Los Mapaches",
       "Lotus (North American Team)",
       "LOUD",
@@ -866,6 +866,7 @@
       "Team 300 Black",
       "Team Alkya",
       "Team Apex",
+      "Team Aqua ASD",
       "Team CD",
       "Team Falcons",
       "Team Gromp (Australian Team)",
