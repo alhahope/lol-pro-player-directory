@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-16T06:43:11.866Z",
+  "generatedAt": "2026-09-17T06:37:28.225Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,804 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,808 条选手记录。"
   },
   "summary": {
-    "total": 20804,
-    "active": 9268,
-    "retired": 11536,
+    "total": 20808,
+    "active": 9264,
+    "retired": 11544,
     "countries": 128,
-    "teams": 846,
-    "personalities": 1940
+    "teams": 847,
+    "personalities": 1941
   },
   "facets": {
     "roles": [
@@ -210,6 +210,7 @@
       "AKG",
       "All for One Gaming",
       "ALMO Players",
+      "Alpha Impact",
       "aNc Outplayed",
       "Ancient Ones",
       "Andromeda Gaming",
@@ -451,7 +452,6 @@
       "Galaxy Gaming (American Team)",
       "Galions",
       "Galions Sharks",
-      "GaloZeus Center",
       "GAM Esports",
       "GAM3RS X",
       "Game Coach Academy",
@@ -538,6 +538,7 @@
       "JSK Academy",
       "JSK Esports",
       "Juniata College",
+      "Juventus Gaming Red",
       "Juventus Gaming White",
       "KaBuM! Ilha das Lendas",
       "KaBuM! Trainee",
