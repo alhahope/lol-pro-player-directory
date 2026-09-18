@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-17T06:37:28.225Z",
+  "generatedAt": "2026-09-18T06:37:27.580Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,808 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,809 条选手记录。"
   },
   "summary": {
-    "total": 20808,
-    "active": 9264,
-    "retired": 11544,
+    "total": 20809,
+    "active": 9263,
+    "retired": 11546,
     "countries": 128,
-    "teams": 847,
+    "teams": 845,
     "personalities": 1941
   },
   "facets": {
@@ -319,7 +319,6 @@
       "Conviction",
       "Cool Beans Team",
       "Corinthians Clan",
-      "Creed Gaming",
       "Croatian Flair x RLX",
       "Cryptova",
       "Crystal Rose (French Team)",
@@ -438,7 +437,6 @@
       "Frost Tails",
       "Fuego",
       "Fukuoka SoftBank HAWKS gaming",
-      "Full Sense",
       "FURIA",
       "FURIA Youth",
       "Fury Gaming",
