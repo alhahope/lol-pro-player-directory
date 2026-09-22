@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-21T07:07:50.805Z",
+  "generatedAt": "2026-09-22T06:45:51.407Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,810 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,811 条选手记录。"
   },
   "summary": {
-    "total": 20810,
-    "active": 9264,
+    "total": 20811,
+    "active": 9265,
     "retired": 11546,
     "countries": 128,
     "teams": 845,
-    "personalities": 1941
+    "personalities": 1940
   },
   "facets": {
     "roles": [
@@ -604,7 +604,7 @@
       "LUA Gaming",
       "Lunaris Esports (MENA Team)",
       "Lund Esports Organization",
-      "Lund Esports Organization Academy",
+      "Lund Esports Organization OGs",
       "Lund Esports Organization Zenith",
       "Lundqvist Darkside",
       "Lundqvist Lightside",
