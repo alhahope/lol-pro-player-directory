@@ -1,14 +1,14 @@
 {
-  "generatedAt": "2026-09-23T06:38:00.322Z",
+  "generatedAt": "2026-09-24T06:43:05.960Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,817 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,818 条选手记录。"
   },
   "summary": {
-    "total": 20817,
-    "active": 9267,
+    "total": 20818,
+    "active": 9268,
     "retired": 11550,
     "countries": 128,
     "teams": 845,
@@ -415,6 +415,7 @@
       "Farenvehn Fem",
       "Fast8",
       "Fatui Harbringers",
+      "Feather (Swiss Team)",
       "FENNEL",
       "FH eSports",
       "Final Boss Esports",
@@ -885,7 +886,6 @@
       "Team Secret Whales",
       "Team Six Gaming",
       "Team Solid (Brazilian Team)",
-      "Team Solid (Swiss Team)",
       "Team Spawn Peek",
       "Team Spire",
       "Team Vision",
