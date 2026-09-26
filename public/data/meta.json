@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T06:34:26.464Z",
+  "generatedAt": "2026-09-26T06:35:48.334Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20820,
-    "active": 9260,
-    "retired": 11560,
+    "active": 9259,
+    "retired": 11561,
     "countries": 128,
-    "teams": 845,
+    "teams": 843,
     "personalities": 1942
   },
   "facets": {
@@ -208,7 +208,6 @@
       "Afterglow Esports",
       "Akave Esports",
       "AKG",
-      "All for One Gaming",
       "ALMO Players",
       "Alpha Impact",
       "aNc Outplayed",
@@ -1020,7 +1019,6 @@
       "ZennIT",
       "ZennIT Academy",
       "Zenshi Gaming",
-      "Zephyr Esport",
       "Zephyr X",
       "Zero Tenacity",
       "Zerolag Esports",
