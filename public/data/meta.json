@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-26T06:35:48.334Z",
+  "generatedAt": "2026-09-27T07:04:23.069Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,820 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,825 条选手记录。"
   },
   "summary": {
-    "total": 20820,
-    "active": 9259,
+    "total": 20825,
+    "active": 9264,
     "retired": 11561,
-    "countries": 128,
+    "countries": 127,
     "teams": 843,
-    "personalities": 1942
+    "personalities": 1943
   },
   "facets": {
     "roles": [
@@ -135,7 +135,6 @@
       "New Caledonia",
       "New Zealand",
       "Nicaragua",
-      "North America",
       "North Macedonia",
       "Norway",
       "Oman",
