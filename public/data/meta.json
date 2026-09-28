@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T07:04:23.069Z",
+  "generatedAt": "2026-09-28T07:36:20.997Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -11,7 +11,7 @@
     "active": 9264,
     "retired": 11561,
     "countries": 127,
-    "teams": 843,
+    "teams": 842,
     "personalities": 1943
   },
   "facets": {
@@ -470,7 +470,6 @@
       "GM Gaming",
       "GMBLERS Esports",
       "GnG Amazigh",
-      "God Darkness Esports",
       "Godalions Blossom",
       "Golden Lions",
       "Golden Lions Academy",
