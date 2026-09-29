@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-28T07:36:20.997Z",
+  "generatedAt": "2026-09-29T07:29:17.132Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,825 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,826 条选手记录。"
   },
   "summary": {
-    "total": 20825,
-    "active": 9264,
-    "retired": 11561,
+    "total": 20826,
+    "active": 9263,
+    "retired": 11563,
     "countries": 127,
-    "teams": 842,
+    "teams": 843,
     "personalities": 1943
   },
   "facets": {
@@ -299,7 +299,6 @@
       "Clã NKZ Raccoons",
       "Clã NKZ Reapers",
       "Clã NKZ Revengers",
-      "Clã NKZ Rising",
       "Clã NKZ VÓRAX",
       "Cleary University",
       "Cleveland State University",
@@ -855,6 +854,7 @@
       "SU Esports",
       "Supernova",
       "Sweet River eSports",
+      "Sweet River eSports Blue",
       "T1",
       "T1 Esports Academy",
       "T1 Esports Academy Rookies",
@@ -915,6 +915,7 @@
       "Trident Esports",
       "TSM",
       "Tsunami Studios",
+      "TSV Hamelspringe Dorsch",
       "Tu Papá Esports",
       "Tushi Esports",
       "UB Alma Mater",
