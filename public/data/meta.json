@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-09-29T07:29:17.132Z",
+  "generatedAt": "2026-09-30T07:24:24.335Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,826 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,827 条选手记录。"
   },
   "summary": {
-    "total": 20826,
+    "total": 20827,
     "active": 9263,
-    "retired": 11563,
+    "retired": 11564,
     "countries": 127,
-    "teams": 843,
+    "teams": 842,
     "personalities": 1943
   },
   "facets": {
@@ -199,7 +199,6 @@
       "Abstract (Brazilian Team)",
       "Abyssal Denmark",
       "AceGaming",
-      "AceGaming FullHouse",
       "AceGaming Hearts",
       "AceGaming Wildcard",
       "Aegis (French Team)",
