@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-01T07:46:39.100Z",
+  "generatedAt": "2026-10-02T07:29:45.234Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,827 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,828 条选手记录。"
   },
   "summary": {
-    "total": 20827,
-    "active": 9259,
+    "total": 20828,
+    "active": 9260,
     "retired": 11568,
     "countries": 127,
-    "teams": 842,
+    "teams": 840,
     "personalities": 1943
   },
   "facets": {
@@ -200,7 +200,6 @@
       "Abyssal Denmark",
       "AceGaming",
       "AceGaming Hearts",
-      "AceGaming Wildcard",
       "Aegis (French Team)",
       "Aethra Esports Strijders",
       "Afterglow Esports",
@@ -875,7 +874,6 @@
       "Team Phoenix (Turkish Team)",
       "Team Refuse",
       "Team Refuse Academy",
-      "Team Rift",
       "Team Samsara",
       "Team Samsara Bloom",
       "Team Secret (Vietnamese Team)",
