@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-10-02T07:29:45.234Z",
+  "generatedAt": "2026-10-03T07:04:40.192Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,828 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,830 条选手记录。"
   },
   "summary": {
-    "total": 20828,
-    "active": 9260,
-    "retired": 11568,
+    "total": 20830,
+    "active": 9254,
+    "retired": 11576,
     "countries": 127,
-    "teams": 840,
-    "personalities": 1943
+    "teams": 842,
+    "personalities": 1944
   },
   "facets": {
     "roles": [
@@ -825,6 +825,7 @@
       "SK Gaming Avarosa",
       "Skillcamp",
       "Skillcamp Academy",
+      "Slam Dunk",
       "Smoke Tram",
       "Smoke Tram Ascension",
       "SN CyberCore Esports",
@@ -976,6 +977,7 @@
       "Verdant",
       "VfB eSports",
       "VfB x Engines Stuttgart",
+      "Victorious Demons",
       "Vietnam Championship Series",
       "Viktus",
       "Vitality Rising Bees",
