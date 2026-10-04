@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-03T07:04:40.192Z",
+  "generatedAt": "2026-10-04T07:21:56.727Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,830 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,832 条选手记录。"
   },
   "summary": {
-    "total": 20830,
-    "active": 9254,
+    "total": 20832,
+    "active": 9256,
     "retired": 11576,
     "countries": 127,
-    "teams": 842,
+    "teams": 844,
     "personalities": 1944
   },
   "facets": {
@@ -384,6 +384,7 @@
       "Elysion Esports",
       "Embrace Whatever Happens",
       "EmBRAZA! Esports",
+      "Emperors Bremen",
       "Empoliga VP",
       "Entropiq",
       "Epic Avalanche",
@@ -653,6 +654,7 @@
       "Nawal Gaming",
       "NCG Esports",
       "NCG Valkirias",
+      "NebulaX",
       "Neko Elite",
       "Neko Elite Kittens",
       "Nemcatl E-sports",
