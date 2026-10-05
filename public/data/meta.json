@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-04T07:21:56.727Z",
+  "generatedAt": "2026-10-05T07:40:08.893Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,832 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,833 条选手记录。"
   },
   "summary": {
-    "total": 20832,
-    "active": 9256,
+    "total": 20833,
+    "active": 9257,
     "retired": 11576,
     "countries": 127,
-    "teams": 844,
+    "teams": 845,
     "personalities": 1944
   },
   "facets": {
@@ -988,6 +988,7 @@
       "Vivo Keyd Stars Academy",
       "VNU Lions",
       "Void Esports",
+      "Void Walkers",
       "Volda E-Sport",
       "Volticons",
       "Warner University",
