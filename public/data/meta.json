@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T08:06:13.440Z",
+  "generatedAt": "2026-10-07T07:42:10.675Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -11,7 +11,7 @@
     "active": 9256,
     "retired": 11578,
     "countries": 127,
-    "teams": 845,
+    "teams": 846,
     "personalities": 1944
   },
   "facets": {
@@ -875,6 +875,7 @@
       "Team Liquid",
       "Team Phantasma",
       "Team Phoenix (Turkish Team)",
+      "Team Reds",
       "Team Refuse",
       "Team Refuse Academy",
       "Team Samsara",
