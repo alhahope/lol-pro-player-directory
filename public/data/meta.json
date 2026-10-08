@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T07:42:10.675Z",
+  "generatedAt": "2026-10-08T07:57:57.816Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20834,
-    "active": 9256,
-    "retired": 11578,
+    "active": 9255,
+    "retired": 11579,
     "countries": 127,
-    "teams": 846,
+    "teams": 845,
     "personalities": 1944
   },
   "facets": {
@@ -501,7 +501,6 @@
       "Hooded",
       "Hooligans",
       "Hour Zero Esports",
-      "Ici Japon Corp. Esport",
       "IFSP Midas",
       "IGZ Esports",
       "Ilha das Lendas",
