@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-08T07:57:57.816Z",
+  "generatedAt": "2026-10-09T07:59:03.901Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,834 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,840 条选手记录。"
   },
   "summary": {
-    "total": 20834,
-    "active": 9255,
-    "retired": 11579,
+    "total": 20840,
+    "active": 9259,
+    "retired": 11581,
     "countries": 127,
-    "teams": 845,
+    "teams": 847,
     "personalities": 1944
   },
   "facets": {
@@ -279,6 +279,7 @@
       "Bunny Girls",
       "Burning Core Toyama",
       "Bushido Wildcats",
+      "BvP",
       "Byakkos Breeders",
       "CAG OSAKA",
       "Calamity Esports",
@@ -760,6 +761,7 @@
       "RED OUAT",
       "REDPack Esports",
       "regnum4games",
+      "REH Gaming",
       "Reignfall",
       "REJECT",
       "Rem's Helpers",
