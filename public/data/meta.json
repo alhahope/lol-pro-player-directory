@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-09T07:59:03.901Z",
+  "generatedAt": "2026-10-10T07:43:30.018Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,840 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,842 条选手记录。"
   },
   "summary": {
-    "total": 20840,
-    "active": 9259,
-    "retired": 11581,
+    "total": 20842,
+    "active": 9252,
+    "retired": 11590,
     "countries": 127,
-    "teams": 847,
+    "teams": 846,
     "personalities": 1944
   },
   "facets": {
@@ -985,7 +985,6 @@
       "Vietnam Championship Series",
       "Viktus",
       "Vitality Rising Bees",
-      "Vitality.Bee",
       "Vivo Keyd Stars",
       "Vivo Keyd Stars Academy",
       "VNU Lions",
