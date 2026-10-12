@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-11T07:47:45.109Z",
+  "generatedAt": "2026-10-12T07:57:06.921Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,842 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,841 条选手记录。"
   },
   "summary": {
-    "total": 20842,
-    "active": 9252,
-    "retired": 11590,
+    "total": 20841,
+    "active": 9249,
+    "retired": 11592,
     "countries": 127,
-    "teams": 846,
+    "teams": 844,
     "personalities": 1944
   },
   "facets": {
@@ -532,7 +532,6 @@
       "JSK Academy",
       "JSK Esports",
       "Juniata College",
-      "Juventus Gaming Red",
       "Juventus Gaming White",
       "KaBuM! Ilha das Lendas",
       "KaBuM! Trainee",
@@ -598,7 +597,6 @@
       "LOUD",
       "Lourdes University",
       "LUA Gaming",
-      "Lunaris Esports (MENA Team)",
       "Lund Esports Organization",
       "Lund Esports Organization OGs",
       "Lund Esports Organization Zenith",
