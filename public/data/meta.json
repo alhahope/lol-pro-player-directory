@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T07:57:06.921Z",
+  "generatedAt": "2026-10-13T08:24:37.263Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,8 +8,8 @@
   },
   "summary": {
     "total": 20841,
-    "active": 9249,
-    "retired": 11592,
+    "active": 9248,
+    "retired": 11593,
     "countries": 127,
     "teams": 844,
     "personalities": 1944
@@ -395,6 +395,7 @@
       "Espergærde eSport",
       "Espergærde eSport Elite",
       "Esprit Shōnen",
+      "eStar (Chinese Team)",
       "Estral Esports",
       "eSuba",
       "Eternal Flame (Chilean Team)",
@@ -405,7 +406,6 @@
       "EXILE esports Academy",
       "eyya",
       "f4f e-sports",
-      "Faerie Charm (Singaporean Team)",
       "Falke Esports",
       "FanGTV",
       "Fantasy Island",
@@ -512,7 +512,6 @@
       "Inari Esports (British Team)",
       "Indiana University Bloomington",
       "Inferno Drive Tokyo",
-      "Inferno Esports (Filipino Team)",
       "INFINITY",
       "INT Esports",
       "International Esports Industry Center",
@@ -759,6 +758,7 @@
       "RED OUAT",
       "REDPack Esports",
       "regnum4games",
+      "reGOLD eSport",
       "REH Gaming",
       "Reignfall",
       "REJECT",
