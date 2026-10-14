@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T08:24:37.263Z",
+  "generatedAt": "2026-10-14T06:40:37.869Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20841,
-    "active": 9248,
-    "retired": 11593,
+    "active": 9247,
+    "retired": 11594,
     "countries": 127,
-    "teams": 844,
+    "teams": 842,
     "personalities": 1944
   },
   "facets": {
@@ -265,7 +265,6 @@
       "BOREAL",
       "Borregos MTY",
       "Boston University",
-      "Botafogo Esports",
       "Botafogo Esports Fem",
       "Box Studio",
       "Brest Esport",
@@ -581,7 +580,6 @@
       "LNG Esports",
       "LOADING Gaming",
       "Locked In (Dutch Team)",
-      "Locked Int",
       "LODIS (Polish Team)",
       "LoL Championship Series",
       "LoL EMEA Championship",
@@ -896,6 +894,7 @@
       "Tempo Rush",
       "The Agency (North American Team)",
       "The Bandits",
+      "The Bandits Prime",
       "The Bandits UK",
       "The Black Lotus",
       "The Final Tribe",
@@ -984,7 +983,6 @@
       "Viktus",
       "Vitality Rising Bees",
       "Vivo Keyd Stars",
-      "Vivo Keyd Stars Academy",
       "VNU Lions",
       "Void Esports",
       "Void Walkers",
