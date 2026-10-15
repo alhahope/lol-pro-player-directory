@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T06:40:37.869Z",
+  "generatedAt": "2026-10-15T06:25:05.834Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,11 +8,11 @@
   },
   "summary": {
     "total": 20841,
-    "active": 9247,
-    "retired": 11594,
+    "active": 9245,
+    "retired": 11596,
     "countries": 127,
-    "teams": 842,
-    "personalities": 1944
+    "teams": 843,
+    "personalities": 1943
   },
   "facets": {
     "roles": [
@@ -343,6 +343,7 @@
       "Disruptors",
       "DKB XPERION NXT",
       "DMG Esports",
+      "DMG Esports Sweden",
       "DN SOOPers",
       "DN SOOPers Academy",
       "DN SOOPers Challengers",
