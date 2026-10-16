@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-15T06:25:05.834Z",
+  "generatedAt": "2026-10-16T06:20:09.879Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,841 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,842 条选手记录。"
   },
   "summary": {
-    "total": 20841,
-    "active": 9245,
-    "retired": 11596,
+    "total": 20842,
+    "active": 9247,
+    "retired": 11595,
     "countries": 127,
-    "teams": 843,
+    "teams": 842,
     "personalities": 1943
   },
   "facets": {
@@ -273,7 +273,6 @@
       "Brod n Friends",
       "BRUTE",
       "Bubliki",
-      "Bulldog Academy",
       "Bulldog Esports",
       "Bunny Girls",
       "Burning Core Toyama",
