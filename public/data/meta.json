@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-16T06:20:09.879Z",
+  "generatedAt": "2026-10-17T06:08:45.356Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,842 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,846 条选手记录。"
   },
   "summary": {
-    "total": 20842,
-    "active": 9247,
-    "retired": 11595,
+    "total": 20846,
+    "active": 9248,
+    "retired": 11598,
     "countries": 127,
-    "teams": 842,
+    "teams": 841,
     "personalities": 1943
   },
   "facets": {
@@ -904,7 +904,6 @@
       "The Secret Club",
       "Thời Báo LOL Esports",
       "ThunderTalk Gaming",
-      "ThunderTalk Gaming Young",
       "TITANS",
       "TLN Pirates",
       "Top Esports",
