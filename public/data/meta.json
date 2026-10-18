@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T06:08:45.356Z",
+  "generatedAt": "2026-10-18T06:34:12.453Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,8 +8,8 @@
   },
   "summary": {
     "total": 20846,
-    "active": 9248,
-    "retired": 11598,
+    "active": 9244,
+    "retired": 11602,
     "countries": 127,
     "teams": 841,
     "personalities": 1943
@@ -329,7 +329,6 @@
       "DCT eSports",
       "DeathMark E-Sports",
       "Deep Cross Gaming",
-      "Deer Gaming",
       "Definitely not washed up",
       "DetonatioN FocusMe",
       "DetonatioN FocusMe Academy",
@@ -530,6 +529,7 @@
       "JSK Academy",
       "JSK Esports",
       "Juniata College",
+      "Juventus Gaming Red",
       "Juventus Gaming White",
       "KaBuM! Ilha das Lendas",
       "KaBuM! Trainee",
@@ -771,7 +771,6 @@
       "Riot Games Inc.",
       "Rise Gaming",
       "Rising Reapers",
-      "RIZE Gaming",
       "RLX Esports",
       "RMD Gaming",
       "Rochester Institute of Technology",
@@ -883,6 +882,7 @@
       "Team Solid (Brazilian Team)",
       "Team Spawn Peek",
       "Team Spire",
+      "Team VDS",
       "Team Vision",
       "Team Vitality",
       "Team WE",
