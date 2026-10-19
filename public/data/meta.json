@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-18T06:34:12.453Z",
+  "generatedAt": "2026-10-19T06:46:31.423Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,846 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,848 条选手记录。"
   },
   "summary": {
-    "total": 20846,
-    "active": 9244,
-    "retired": 11602,
+    "total": 20848,
+    "active": 9238,
+    "retired": 11610,
     "countries": 127,
-    "teams": 841,
+    "teams": 836,
     "personalities": 1943
   },
   "facets": {
@@ -585,7 +585,6 @@
       "LoL EMEA Championship",
       "LoL Japan League",
       "LoL Pro League",
-      "LOLDOGS",
       "LOOKSMAXXER",
       "LØS",
       "LØS Academy",
@@ -683,7 +682,6 @@
       "NOVO Esports",
       "Nox Omen",
       "NRG",
-      "Nuclear Zone Glory",
       "Nyx Esports (North American Team)",
       "O'Gaming TV",
       "Oakland University",
@@ -881,9 +879,7 @@
       "Team Six Gaming",
       "Team Solid (Brazilian Team)",
       "Team Spawn Peek",
-      "Team Spire",
       "Team VDS",
-      "Team Vision",
       "Team Vitality",
       "Team WE",
       "Team WE Academy",
@@ -977,7 +973,6 @@
       "Verdant",
       "VfB eSports",
       "VfB x Engines Stuttgart",
-      "Victorious Demons",
       "Vietnam Championship Series",
       "Viktus",
       "Vitality Rising Bees",
