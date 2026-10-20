@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T06:46:31.423Z",
+  "generatedAt": "2026-10-20T06:34:30.835Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -11,7 +11,7 @@
     "active": 9238,
     "retired": 11610,
     "countries": 127,
-    "teams": 836,
+    "teams": 835,
     "personalities": 1943
   },
   "facets": {
@@ -239,7 +239,6 @@
       "Babos Gaming Academy",
       "Ball State University",
       "Bamboo Juice",
-      "Barça eSports",
       "Barcząca Esports Babylon",
       "Barcząca Esports by Yumisu",
       "Bastu Five",
