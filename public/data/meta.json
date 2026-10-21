@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T06:34:30.835Z",
+  "generatedAt": "2026-10-21T06:32:57.227Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20848,
-    "active": 9238,
-    "retired": 11610,
+    "active": 9236,
+    "retired": 11612,
     "countries": 127,
-    "teams": 835,
+    "teams": 836,
     "personalities": 1943
   },
   "facets": {
@@ -953,6 +953,7 @@
       "University of Toronto",
       "University of Washington",
       "University of Waterloo",
+      "University of Western Ontario",
       "UP2UMEDIA Cebulaki",
       "USP Black Stars",
       "USP White Stars",
