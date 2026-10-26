@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-10-25T06:48:36.804Z",
+  "generatedAt": "2026-10-26T06:55:29.242Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,859 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,860 条选手记录。"
   },
   "summary": {
-    "total": 20859,
-    "active": 9242,
-    "retired": 11617,
+    "total": 20860,
+    "active": 9236,
+    "retired": 11624,
     "countries": 127,
-    "teams": 836,
+    "teams": 834,
     "personalities": 1943
   },
   "facets": {
@@ -592,7 +592,6 @@
       "LOUD",
       "Lourdes University",
       "LUA Gaming",
-      "Lund Esports Organization",
       "Lund Esports Organization OGs",
       "Lund Esports Organization Zenith",
       "Lundqvist Darkside",
@@ -962,7 +961,6 @@
       "V3 Esports",
       "Valerion",
       "Valkiria's Thunder",
-      "Valkiria's Vikings",
       "Vancouver Impact",
       "VARREL YOUTH",
       "Vasco E-Sports",
