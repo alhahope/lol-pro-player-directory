@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T06:48:45.164Z",
+  "generatedAt": "2026-10-28T07:22:14.110Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20861,
-    "active": 9237,
-    "retired": 11624,
+    "active": 9234,
+    "retired": 11627,
     "countries": 127,
-    "teams": 834,
+    "teams": 837,
     "personalities": 1943
   },
   "facets": {
@@ -626,6 +626,7 @@
       "Michigan Technological University",
       "Mighty Eagles",
       "Mighty Meerkats",
+      "Milk Esports",
       "Mind Blue eSports",
       "Miracle (North American Team)",
       "Mirage Alliance",
@@ -692,6 +693,7 @@
       "Ohio Northern University",
       "Ohio State University",
       "Oklahoma Christian University",
+      "Olympique Mnihla",
       "Omerix Esport",
       "Once Upon A Team",
       "One More Esports",
@@ -813,6 +815,7 @@
       "Siena Heights University",
       "SillySilly Gaming",
       "Simon Fraser University",
+      "Simplicity Esports (Tunisian Team)",
       "Sirens A Team",
       "Sissi State Punks",
       "SK Gaming",
