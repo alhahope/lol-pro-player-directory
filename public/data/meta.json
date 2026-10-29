@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T07:22:14.110Z",
+  "generatedAt": "2026-10-29T07:38:50.761Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20861,
-    "active": 9234,
-    "retired": 11627,
+    "active": 9226,
+    "retired": 11635,
     "countries": 127,
-    "teams": 837,
+    "teams": 836,
     "personalities": 1943
   },
   "facets": {
@@ -441,7 +441,6 @@
       "FUSION (Latin American Team)",
       "FUT Esports",
       "G2 Esports",
-      "G2 Hel",
       "G2 NORD",
       "Galaxy Gaming (American Team)",
       "Galions",
