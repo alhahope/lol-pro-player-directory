@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-29T07:38:50.761Z",
+  "generatedAt": "2026-10-30T07:42:30.300Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,861 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,864 条选手记录。"
   },
   "summary": {
-    "total": 20861,
-    "active": 9226,
-    "retired": 11635,
+    "total": 20864,
+    "active": 9213,
+    "retired": 11651,
     "countries": 127,
     "teams": 836,
     "personalities": 1943
@@ -316,6 +316,7 @@
       "Croatian Flair x RLX",
       "Cryptova",
       "Crystal Rose (French Team)",
+      "CTB Esports",
       "CTBC Flying Oyster",
       "CTBC Flying Oyster Academy",
       "Cumberland University",
@@ -863,7 +864,6 @@
       "Team Falcons",
       "Team Gromp (Australian Team)",
       "Team Heretics",
-      "Team Heretics Academy",
       "Team High Ground",
       "Team Just",
       "Team Liquid",
