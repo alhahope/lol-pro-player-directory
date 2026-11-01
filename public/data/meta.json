@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T07:29:03.579Z",
+  "generatedAt": "2026-11-01T08:06:49.242Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -11,7 +11,7 @@
     "active": 9211,
     "retired": 11654,
     "countries": 127,
-    "teams": 836,
+    "teams": 837,
     "personalities": 1943
   },
   "facets": {
@@ -801,6 +801,7 @@
       "Seoul Neon",
       "Seven Dark",
       "Seven Dark Academy",
+      "Shadow Battlica",
       "Shadow Bloom",
       "Shadow Corp",
       "Shadow ELG",
