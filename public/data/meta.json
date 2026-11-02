@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T08:06:49.242Z",
+  "generatedAt": "2026-11-02T08:15:03.887Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20865,
-    "active": 9211,
-    "retired": 11654,
+    "active": 9209,
+    "retired": 11656,
     "countries": 127,
-    "teams": 837,
+    "teams": 835,
     "personalities": 1943
   },
   "facets": {
@@ -230,7 +230,6 @@
       "Athletic eSports",
       "Atruvia Münster Esports",
       "Aurora Hub",
-      "AveEsports",
       "AZ Rising Eterna",
       "AzE eSports",
       "Azules Esports Fem",
@@ -278,7 +277,6 @@
       "Burning Core Toyama",
       "Bushido Wildcats",
       "BvP",
-      "Byakkos Breeders",
       "CAG OSAKA",
       "Calamity Esports",
       "Caldya Esport",
@@ -381,7 +379,6 @@
       "Eintracht Spandau",
       "Eintracht Spandau Zwei",
       "EKO Esports",
-      "Elysion Esports",
       "Embrace Whatever Happens",
       "EmBRAZA! Esports",
       "Emperors Bremen",
@@ -972,6 +969,7 @@
       "Veni Vidi Vici (Spanish Team)",
       "VentuCorp eSports",
       "Verdant",
+      "VES Japan",
       "VfB eSports",
       "VfB x Engines Stuttgart",
       "Vietnam Championship Series",
