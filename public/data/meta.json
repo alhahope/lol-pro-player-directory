@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-02T08:15:03.887Z",
+  "generatedAt": "2026-11-03T08:32:19.747Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20865,
-    "active": 9209,
-    "retired": 11656,
+    "active": 9201,
+    "retired": 11664,
     "countries": 127,
-    "teams": 835,
+    "teams": 834,
     "personalities": 1943
   },
   "facets": {
@@ -516,7 +516,6 @@
       "Inygon",
       "Iowa State University",
       "Iron Clutch",
-      "Irvine Valley College",
       "Isurus",
       "J Team",
       "JD Gaming",
