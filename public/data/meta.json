@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-04T07:58:52.738Z",
+  "generatedAt": "2026-11-05T08:28:40.209Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,8 +8,8 @@
   },
   "summary": {
     "total": 20867,
-    "active": 9200,
-    "retired": 11667,
+    "active": 9184,
+    "retired": 11683,
     "countries": 127,
     "teams": 834,
     "personalities": 1943
