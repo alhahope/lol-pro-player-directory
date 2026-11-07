@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-06T08:29:05.297Z",
+  "generatedAt": "2026-11-07T07:44:46.542Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,870 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,874 条选手记录。"
   },
   "summary": {
-    "total": 20870,
-    "active": 9173,
-    "retired": 11697,
+    "total": 20874,
+    "active": 9178,
+    "retired": 11696,
     "countries": 127,
-    "teams": 835,
+    "teams": 830,
     "personalities": 1943
   },
   "facets": {
@@ -446,7 +446,6 @@
       "GAM Esports",
       "GAM3RS X",
       "Game Coach Academy",
-      "Gamers404",
       "Gamespace Mediterranean College Esports",
       "GameWard",
       "Garden Gaming",
@@ -536,7 +535,6 @@
       "Karmine Corp Blue Stars",
       "Karolinerna",
       "Katholieke Universiteit Leuven",
-      "Kaufland Hangry Knights",
       "Kawaii Kiwis",
       "Keiser University",
       "Kent State University",
@@ -611,7 +609,6 @@
       "MCOM eSports",
       "mCon esports",
       "Meavedron",
-      "Meavedron Anonymo Master Academy",
       "Meebo's Weebos",
       "Melon Milk Lifestyle",
       "Member of Advisory Board LCK CL",
@@ -718,7 +715,6 @@
       "Paranormal Invaders",
       "Park University",
       "Payasas Team",
-      "PCIFIC Esports",
       "PCS Académie",
       "Pegasus Esports",
       "Pennsylvania State University",
@@ -801,7 +797,6 @@
       "Shadow Battlica",
       "Shadow Bloom",
       "Shadow Corp",
-      "Shadow ELG",
       "Shark Attack",
       "SharkBite Furious Gaming",
       "SharkBite Furious Gaming Black",
