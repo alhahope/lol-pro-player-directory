@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-07T07:44:46.542Z",
+  "generatedAt": "2026-11-08T07:56:41.670Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,874 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,875 条选手记录。"
   },
   "summary": {
-    "total": 20874,
+    "total": 20875,
     "active": 9178,
-    "retired": 11696,
+    "retired": 11697,
     "countries": 127,
-    "teams": 830,
+    "teams": 829,
     "personalities": 1943
   },
   "facets": {
@@ -463,7 +463,6 @@
       "GM Gaming",
       "GMBLERS Esports",
       "GnG Amazigh",
-      "Godalions Blossom",
       "Golden Lions Academy",
       "Golden Soul",
       "Good Chi",
