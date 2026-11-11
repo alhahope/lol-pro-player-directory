@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-10T08:48:49.908Z",
+  "generatedAt": "2026-11-11T08:21:42.730Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,877 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,879 条选手记录。"
   },
   "summary": {
-    "total": 20877,
-    "active": 9174,
+    "total": 20879,
+    "active": 9176,
     "retired": 11703,
     "countries": 127,
-    "teams": 829,
+    "teams": 831,
     "personalities": 1943
   },
   "facets": {
@@ -669,6 +669,7 @@
       "Northern League of Legends Championship",
       "Northern Wolves Esports",
       "Northwood University",
+      "Nothin'Here",
       "Novasphere Gaming",
       "NOVEX",
       "NOVO Esports",
@@ -822,6 +823,7 @@
       "SNOOZE Esports",
       "Solary",
       "Solary Eclipse",
+      "Sống Bằng Tình Yêu",
       "Sørby eSport",
       "Space Rabbit e-Sports",
       "Spartans EU",
