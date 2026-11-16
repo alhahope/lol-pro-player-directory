@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-15T08:25:37.077Z",
+  "generatedAt": "2026-11-16T08:33:55.030Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,879 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,880 条选手记录。"
   },
   "summary": {
-    "total": 20879,
-    "active": 9155,
+    "total": 20880,
+    "active": 9156,
     "retired": 11724,
     "countries": 127,
-    "teams": 830,
+    "teams": 831,
     "personalities": 1943
   },
   "facets": {
@@ -891,6 +891,7 @@
       "The ParadOx Academy",
       "The ParadOx Invaders",
       "The Secret Club",
+      "The Six Tung Tung Tung Sahurs",
       "Thời Báo LOL Esports",
       "ThunderTalk Gaming",
       "TITANS",
