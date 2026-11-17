@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-16T08:33:55.030Z",
+  "generatedAt": "2026-11-17T09:43:21.282Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20880,
-    "active": 9156,
-    "retired": 11724,
+    "active": 9152,
+    "retired": 11728,
     "countries": 127,
-    "teams": 831,
+    "teams": 830,
     "personalities": 1943
   },
   "facets": {
@@ -889,7 +889,6 @@
       "The Final Tribe",
       "The New Kings",
       "The ParadOx Academy",
-      "The ParadOx Invaders",
       "The Secret Club",
       "The Six Tung Tung Tung Sahurs",
       "Thời Báo LOL Esports",
