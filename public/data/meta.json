@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-17T09:43:21.282Z",
+  "generatedAt": "2026-11-18T09:05:06.449Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,880 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,881 条选手记录。"
   },
   "summary": {
-    "total": 20880,
-    "active": 9152,
-    "retired": 11728,
+    "total": 20881,
+    "active": 9150,
+    "retired": 11731,
     "countries": 127,
     "teams": 830,
     "personalities": 1943
@@ -452,7 +452,6 @@
       "Garena Team",
       "GD Esports",
       "Gen.G",
-      "Gen.G Global Academy",
       "Gen.G Scholars",
       "Generic Esports",
       "George Mason University",
@@ -919,6 +918,7 @@
       "University of British Columbia",
       "University of California Berkeley",
       "University of California Irvine",
+      "University of California Los Angeles",
       "University of California Riverside",
       "University of California San Diego",
       "University of California Santa Cruz",
