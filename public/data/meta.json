@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-18T09:05:06.449Z",
+  "generatedAt": "2026-11-19T09:28:53.344Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,881 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,883 条选手记录。"
   },
   "summary": {
-    "total": 20881,
-    "active": 9150,
-    "retired": 11731,
+    "total": 20883,
+    "active": 9134,
+    "retired": 11749,
     "countries": 127,
-    "teams": 830,
+    "teams": 829,
     "personalities": 1943
   },
   "facets": {
@@ -21,6 +21,7 @@
       "Broadcast Talent",
       "Caster",
       "Coach",
+      "General Manager",
       "Journalist",
       "Jungle",
       "Manager",
@@ -505,7 +506,6 @@
       "Inferno Drive Tokyo",
       "INFINITY",
       "INT Esports",
-      "International Esports Industry Center",
       "INTZ",
       "Invictus Gaming",
       "Invictus Team",
