@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-20T09:09:17.670Z",
+  "generatedAt": "2026-11-21T08:44:37.543Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,9 +8,9 @@
   },
   "summary": {
     "total": 20885,
-    "active": 9119,
-    "retired": 11766,
-    "countries": 128,
+    "active": 9118,
+    "retired": 11767,
+    "countries": 127,
     "teams": 829,
     "personalities": 1943
   },
@@ -175,7 +175,6 @@
       "United Arab Emirates",
       "United Kingdom",
       "United States",
-      "Unrecognized Country!Category:Unrecognized Country",
       "Uruguay",
       "Uzbekistan",
       "Venezuela",
