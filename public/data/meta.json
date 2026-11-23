@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-22T08:48:15.831Z",
+  "generatedAt": "2026-11-23T09:44:38.985Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,10 +8,10 @@
   },
   "summary": {
     "total": 20886,
-    "active": 9115,
-    "retired": 11771,
+    "active": 9114,
+    "retired": 11772,
     "countries": 127,
-    "teams": 829,
+    "teams": 826,
     "personalities": 1943
   },
   "facets": {
@@ -242,7 +242,6 @@
       "Bamboo Juice",
       "Barcząca Esports Babylon",
       "Barcząca Esports by Yumisu",
-      "Bastu Five",
       "BAU Esports",
       "Berlin International Gaming",
       "Bethany Lutheran College",
@@ -495,7 +494,6 @@
       "Hooligans",
       "Hour Zero Esports",
       "IFSP Midas",
-      "IGZ Esports",
       "Ilha das Lendas",
       "Illinois State University",
       "Illinois Wesleyan University",
@@ -875,7 +873,6 @@
       "Team Vitality",
       "Team WE",
       "Team WE Academy",
-      "TeamBasH Gaming",
       "TeamOrangeGaming",
       "TeamOrangeGaming Academy",
       "Temple University",
