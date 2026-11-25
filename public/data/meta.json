@@ -1,17 +1,17 @@
 {
-  "generatedAt": "2026-11-24T11:35:25.967Z",
+  "generatedAt": "2026-11-25T10:27:08.153Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,886 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,887 条选手记录。"
   },
   "summary": {
-    "total": 20886,
-    "active": 9112,
-    "retired": 11774,
+    "total": 20887,
+    "active": 9110,
+    "retired": 11777,
     "countries": 127,
-    "teams": 826,
+    "teams": 825,
     "personalities": 1943
   },
   "facets": {
@@ -273,7 +273,6 @@
       "BRUTE",
       "Bubliki",
       "Bulldog Esports",
-      "Bunny Girls",
       "Burning Core Toyama",
       "Bushido Wildcats",
       "BvP",
@@ -314,7 +313,6 @@
       "Croatian Flair x RLX",
       "Cryptova",
       "Crystal Rose (French Team)",
-      "CTB Esports",
       "CTBC Flying Oyster",
       "CTBC Flying Oyster Academy",
       "Cumberland University",
@@ -582,6 +580,7 @@
       "LOUD",
       "Lourdes University",
       "LUA Gaming",
+      "Luminosity Gaming",
       "Lund Esports Organization OGs",
       "Lund Esports Organization Zenith",
       "Lundqvist Darkside",
