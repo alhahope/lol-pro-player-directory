@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-25T10:27:08.153Z",
+  "generatedAt": "2026-11-26T10:01:28.542Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
@@ -8,8 +8,8 @@
   },
   "summary": {
     "total": 20887,
-    "active": 9110,
-    "retired": 11777,
+    "active": 9108,
+    "retired": 11779,
     "countries": 127,
     "teams": 825,
     "personalities": 1943
@@ -387,6 +387,7 @@
       "ESC Shane",
       "Espergærde eSport",
       "Espergærde eSport Elite",
+      "Esport Factory",
       "Esprit Shōnen",
       "eStar (Chinese Team)",
       "Estral Esports",
@@ -684,7 +685,6 @@
       "Ohio State University",
       "Oklahoma Christian University",
       "Olympique Mnihla",
-      "Omerix Esport",
       "Once Upon A Team",
       "One More Esports",
       "One Trick Production",
