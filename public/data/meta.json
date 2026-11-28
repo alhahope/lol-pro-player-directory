@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-27T10:06:43.830Z",
+  "generatedAt": "2026-11-28T09:25:22.702Z",
   "source": "Leaguepedia Players Cargo table",
   "sourceUrl": "https://lol.fandom.com/wiki/Special:CargoTables/Players",
   "status": {
     "ok": true,
-    "message": "已从 Leaguepedia 更新 20,888 条选手记录。"
+    "message": "已从 Leaguepedia 更新 20,889 条选手记录。"
   },
   "summary": {
-    "total": 20888,
-    "active": 9107,
-    "retired": 11781,
+    "total": 20889,
+    "active": 9097,
+    "retired": 11792,
     "countries": 127,
     "teams": 825,
     "personalities": 1943
@@ -305,7 +305,6 @@
       "Concordia University, Ann Arbor",
       "Conestoga College",
       "Contingent Esports",
-      "Contingent x Protea",
       "Converse University",
       "Conviction",
       "Cool Beans Team",
@@ -513,6 +512,7 @@
       "Isurus",
       "J Team",
       "JD Gaming",
+      "Jigglypuff Guild",
       "Jörmungang Academy",
       "Jötunn (Icelandic Team)",
       "JSK Academy",
